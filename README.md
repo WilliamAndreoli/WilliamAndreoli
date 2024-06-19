@@ -1,9 +1,9 @@
 # Desenvolvedor Full Stack
 - 🌱 Atualmente estou <strong>aprendendo Python e R aplicado a Ciência de Dados</strong>
 - Desenvolvedor Freelancer a 2 anos
-- Cursando Engenharia de Software no Sétimo Período
+- Cursando <strong>Engenharia de Software</strong> no Sétimo Período
 - 💻 Desenvolvendo projetos Pessoais
-- 💬 Pergunte-me sobre Desenvolvimento WEB
+- 💬 Pergunte-me sobre <strong>Desenvolvimento WEB</strong>
 
 # Linguagem/Frameworks/Ferramentas
 - HTML / Bootstrap
