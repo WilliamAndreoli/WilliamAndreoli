@@ -1,5 +1,5 @@
 # Desenvolvedor Full Stack
-- 🌱 Atualmente estou #aprendendo Python e R aplicado a Ciência de Dados
+- 🌱 Atualmente estou <strong>aprendendo Python e R aplicado a Ciência de Dados</strong>
 - Desenvolvedor Freelancer a 2 anos
 - Cursando Engenharia de Software no Sétimo Período
 - 💻 Desenvolvendo projetos Pessoais
