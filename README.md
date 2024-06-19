@@ -1,10 +1,12 @@
 <div>
   <h2>Desenvolvedor Full Stack</h2>
-  - 🌱 Atualmente estou <strong>aprendendo Python e R aplicado a Ciência de Dados</strong>
-  - Desenvolvedor Freelancer a 2 anos
-  - Cursando <strong>Engenharia de Software</strong> no Sétimo Período
-  - 💻 Desenvolvendo projetos Pessoais
-  - 💬 Pergunte-me sobre <strong>Desenvolvimento WEB</strong>  
+  <ul>
+    <li>🌱 Atualmente estou <strong>aprendendo Python e R aplicado a Ciência de Dados</strong></li>
+    <li>Desenvolvedor Freelancer a 2 anos</li>
+    <li>Cursando <strong>Engenharia de Software</strong> no Sétimo Período</li>
+    <li>💻 Desenvolvendo projetos Pessoais</li>
+    <li>💬 Pergunte-me sobre <strong>Desenvolvimento WEB</strong>  </li>
+  </ul>
 </div>
 
 <br>
