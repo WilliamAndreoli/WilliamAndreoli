@@ -1,8 +1,3 @@
-<head>
-  <!--Font Awesome-->
-  <script src="https://kit.fontawesome.com/96525c2b53.js" crossorigin="anonymous"></script>
-</head>
-
 <div>
   <h2>Desenvolvedor Full Stack</h2>
   <ul>
@@ -33,6 +28,6 @@
 
 <div>
   <h2>Conecte-se comigo:  </h2>
-  <a><i class="fa-brands fa-linkedin"></i></a>
+  <a href=""><i class="fa-brands fa-linkedin"></i></a>
 </div>
 
