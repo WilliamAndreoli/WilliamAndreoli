@@ -1,3 +1,8 @@
+<head>
+  <!--Font Awesome-->
+  <script src="https://kit.fontawesome.com/96525c2b53.js" crossorigin="anonymous"></script>
+</head>
+
 <div>
   <h2>Desenvolvedor Full Stack</h2>
   <ul>
