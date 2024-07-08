@@ -15,7 +15,7 @@
   <h2>Linguagem/Frameworks/Ferramentas</h2>
   <ul>
     <li>HTML / Bootstrap</li>
-    <li>CSS/Sass</li>
+    <li>CSS / Sass</li>
     <li>JavaScript / Angular</li>
     <li>PHP</li>
     <li>Python / Jupyter Notebooks</li>
