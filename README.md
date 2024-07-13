@@ -18,7 +18,7 @@
     <li>CSS / Sass</li>
     <li>JavaScript / Angular</li>
     <li>PHP</li>
-    <li>Python / Jupyter Notebooks</li>
+    <li>Python / Jupyter Notebooks / Spark e Databricks</li>
     <li>R</li>
     <li>MySQL e MongoDB</li>
   </ul>
