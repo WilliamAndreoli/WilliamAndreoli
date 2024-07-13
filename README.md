@@ -17,6 +17,7 @@
     <li>HTML / Bootstrap</li>
     <li>CSS / Sass</li>
     <li>JavaScript / Angular</li>
+    <li>Java / SpringBoot</li>
     <li>PHP</li>
     <li>Python / Jupyter Notebooks / Spark e Databricks</li>
     <li>R</li>
