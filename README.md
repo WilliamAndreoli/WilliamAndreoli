@@ -26,9 +26,9 @@
 </div>
 
 <br>
-
+<!--
 <div>
   <h2>Conecte-se comigo:  </h2>
   <a href=""><i class="fa-brands fa-linkedin"></i></a>
 </div>
-
+-->
