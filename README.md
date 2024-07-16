@@ -16,7 +16,7 @@
   <ul>
     <li>HTML / Bootstrap</li>
     <li>CSS / Sass</li>
-    <li>JavaScript, Typescript / Angular</li>
+    <li>JavaScript, Typescript / Angular / Ionic</li>
     <li>Java / SpringBoot</li>
     <li>PHP</li>
     <li>Python / Jupyter Notebooks / Spark e Databricks</li>
