@@ -22,7 +22,7 @@
     <li>Python / Jupyter Notebooks / Spark e Databricks</li>
     <li>R</li>
     <li>MySQL e MongoDB</li>
-    <li>Ecossistema Amazon Web Services (S3, Redshift, EC2, Kinesis)</li>
+    <li>Amazon Web Services</li>
     <li>Ecossitema Hadoop</li>
   </ul>
 </div>
